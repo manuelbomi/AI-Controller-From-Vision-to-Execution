@@ -32,6 +32,7 @@
 
 #### For completeness, the architecture is also reproduced here: 
 
+
 ```python
 ┌─────────────────────────────────────────────────────────────┐
 │                 TERADYNE AI CONTROLLER PLATFORM             │
@@ -66,7 +67,7 @@
 
 ```
 
-
+---
 
 #### The current repository contains how the AI Controller architecture may be implemented in practice. In that context, for this repo, we provide :
 
