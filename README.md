@@ -320,4 +320,7 @@ plt.show()
 
 #### Here, we can visualize the gains of partnerring with Nvidia and intergrating their GPU Acceleration platform such as <ins>Nvidia Run:ai</ins> with Teradyne's AI Controller platform
 
+> [!NOTE]
+> For better context on how to affordably aceess, and the benefit(s) of using Nvidia's Run:ai to scale enterprise AI workloads, interested readers can read the benefits here:   https://github.com/manuelbomi/Nvidia-1-NVIDIA-Run-AI-Need-Assessment-Procurement-and-Access-Options-for-Enterprise-Applications
+
 
