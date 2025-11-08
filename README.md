@@ -373,3 +373,14 @@ plt.show()
 #### GPU acceleration performance visualized clearly for management review.
 
 
+## 📊 References & Data Context
+
+#### Teradyne Annual Report 2024 — Compute Test Division operational KPIs
+
+#### IEEE Trans. on Semiconductor Manufacturing, Vol. 37, No. 2, 2024 — “AI in Automated Test Equipment”
+
+#### SEMI E10, E79 standards — for test efficiency and utilization metrics
+
+#### Synthetic data generated to reflect Teradyne UltraFlex™ and J750Ex tester classes under realistic operating distributions.
+
+
