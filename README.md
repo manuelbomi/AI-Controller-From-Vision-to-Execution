@@ -84,7 +84,8 @@
 
 ## 1. Defining the Product: Concrete Roadmap & Features
 
-#### The AI Controller unifies machine learning, test optimization, and feedback loops into one adaptive system that improves test efficiency, yield, and quality.
+#### The AI Controller unifies machine learning, test optimization, and adaptive feedback into one intelligent test orchestration system that improves test efficiency, yield, and quality.
+It serves as an <ins>AI Assistant for the Semiconductor Test Engineer</ins>, transforming raw data into real-time insights and automated decision-making.
 
 #### <ins> AI Assitannt Module for the Semiconductor Test Engineer </ins>
 
@@ -183,7 +184,9 @@ plt.show()
 
 - Anomaly proportion pie chart
 
-#### This simulates a real-time analytics dashboard in Phase 1 (“AI Assistant”) for early fault detection and process drift visualization.
+#### Generates real-time plots for signal drift, anomaly distributions, feature correlations, and defect proportions — forming the Phase 1 “AI Assistant Dashboard” for early drift and fault detection.
+
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/8a24787d-c60d-4466-9132-09f11ec2aba5" />
 
 
 ---
