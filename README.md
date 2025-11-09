@@ -882,6 +882,11 @@ plt.show()
 
 - Sensitivity curve for management visualization
 
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/d3ab4611-47e2-41ad-a53f-b34ef5de2d1c" />
+
+
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/dde7d0eb-0b81-46f3-810b-13532b7ec9f8" />
+
 ---
 
 ## 3. Building the Ecosystem: Partnership Strategy
