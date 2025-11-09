@@ -190,6 +190,17 @@ plt.show()
 
 <img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/bb7e0443-6d93-4d66-bee1-f5e0c0d1081a" />
 
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/cf7a679d-b7d0-49f9-a03b-9d7e521cfb9a" />
+
+
+
+
+<p float="left">
+  <img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/bb7e0443-6d93-4d66-bee1-f5e0c0d1081a" />
+  <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/cf7a679d-b7d0-49f9-a03b-9d7e521cfb9a" /> 
+</p>
+
+
 
 ---
 
