@@ -186,14 +186,9 @@ plt.show()
 
 #### Generates real-time plots for signal drift, anomaly distributions, feature correlations, and defect proportions — forming the Phase 1 “AI Assistant Dashboard” for early drift and fault detection.
 
+<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/bb7e0443-6d93-4d66-bee1-f5e0c0d1081a" /> 
+
 <img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/8a24787d-c60d-4466-9132-09f11ec2aba5" />
-
-<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/bb7e0443-6d93-4d66-bee1-f5e0c0d1081a" width="425" /> <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/cf7a679d-b7d0-49f9-a03b-9d7e521cfb9a" width="425" />
-
-
-
-
-
 
 ---
 
