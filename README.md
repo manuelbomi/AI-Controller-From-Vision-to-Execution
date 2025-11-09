@@ -948,6 +948,11 @@ plt.grid(axis='y')
 plt.show()
 
 ```
+
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/644210b3-eee2-49d1-92e2-006d5a78bda0" />
+
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/d53656c4-b9f2-40b4-bd36-fd760dbc31ab" />
+
 ---
 
 ### Technical (Partnership) Integration Architecture
