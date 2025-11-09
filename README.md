@@ -188,6 +188,8 @@ plt.show()
 
 <img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/8a24787d-c60d-4466-9132-09f11ec2aba5" />
 
+<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/bb7e0443-6d93-4d66-bee1-f5e0c0d1081a" />
+
 
 ---
 
