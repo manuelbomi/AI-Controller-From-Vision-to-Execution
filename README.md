@@ -192,6 +192,30 @@ plt.show()
 
 ---
 
+
+####  <ins> 1b. Intelligent Test Reduction  </ins>
+
+
+#### Implements machine learning–driven test optimization using feature importance ranking to identify and remove redundant or low-impact test items while maintaining accuracy. This module supports Teradyne’s “Zero DPPM” initiative by minimizing over-testing and accelerating throughput.
+
+#### <ins>Core Features</ins>:
+
+- Synthetic test dataset simulation (50 tests, 10,000 devices)
+
+- Random Forest–based feature selection and ranking
+
+- Automatic test reduction with accuracy benchmarking
+
+- Visualizations: failure distribution, feature importances, model accuracy comparison, confusion matrices
+
+#### ✅ <ins>Result</ins>:
+
+#### Achieved ~50% test reduction with <1% accuracy loss, visually demonstrated through bar charts and heatmaps — validating AI-driven test optimization efficiency.
+
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/8131f6fc-50bb-4195-84a5-d437409b5614" />
+
+---
+
 ## 2. Articulating the Value: ROI & Business Case
 
 #### This module of the AI Controller present Quantifiable ROI Calculator for customers that adoptt the AI Controller
