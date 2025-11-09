@@ -85,7 +85,9 @@
 ## 1. Defining the Product: Concrete Roadmap & Features
 
 #### The AI Controller unifies machine learning, test optimization, and adaptive feedback into one intelligent test orchestration system that improves test efficiency, yield, and quality.
-It serves as an <ins>AI Assistant for the Semiconductor Test Engineer</ins>, transforming raw data into real-time insights and automated decision-making.
+
+#### Some of the AI Controller backend core features are defined and illustrated with Python codes in 1a - 1e below
+
 
 ####  <ins> 1a. Probe Card Health Monitoring  </ins>
 
@@ -228,6 +230,8 @@ if len(first_anomaly) > 0:
 ---
 
 #### <ins> 1b.  AI Assitannt Module for the Semiconductor Test Engineer </ins>
+
+#### It serves as an <ins>AI Assistant for the Semiconductor Test Engineer</ins>, transforming raw data into real-time insights and automated decision-making.
 
 #### Core Features:
 
