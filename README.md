@@ -1399,6 +1399,8 @@ plt.show()
 
 ```
 
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/7aa712f0-466a-4e12-a8f6-5ef9903e55e6" />
+
 ---
 
 ### B. Data and AI for Wafer Sort, Final Test, and SLT
