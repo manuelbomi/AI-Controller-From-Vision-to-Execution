@@ -1181,6 +1181,8 @@ plt.show()
 
 ```
 
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/6614eb6e-fb5b-4154-babc-4117debebc71" />
+
 ---
 
 ### 4.3 KPI Dashboard for AI Adoption
