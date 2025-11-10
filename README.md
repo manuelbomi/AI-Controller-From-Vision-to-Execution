@@ -1472,6 +1472,8 @@ plt.show()
 
 ```
 
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/e701c599-f529-4598-9f96-3a17685812b7" />
+
 ### D. Driving Adoption: Go-to-Market & Change Management
 
 #### D.1 Phased Adoption Strategy
