@@ -1446,6 +1446,11 @@ plt.show()
 
 ```
 
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/48c9dd2d-67dc-46f2-9436-8de2e6920175" />
+
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/e854735e-2420-40f2-981c-658d58f404dd" />
+
+
 ### C. Engineering Enablement: AI Vision and Continuous Monitoring
 
 #### AI Vision integrates data ingestion, model training, validation, and real-time inference to create a closed-loop quality system.
