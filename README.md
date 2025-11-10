@@ -1093,6 +1093,20 @@ for segment, customers in strategy.customer_segments.items():
     print(f"Incentive: {s['incentive']}")
 
 ```
+
+| Chart | What It Shows | Strategic Relevance to Teradyne |
+|-------|---------------|----------------------------------|
+| **Adoption Curve (Bar Chart)** | Simulates percentage of customers per adoption phase | Identifies where to allocate marketing and AI engineering support |
+| **Pilot Program Success (Bar Chart)** | Compares expected improvements for test, yield, and maintenance pilots | Helps product managers prioritize pilot efforts for ROI |
+| **Segment Heatmap** | Displays maturity across customer segments and success metrics | Reveals where the AI Test Controller is most entrenched and where expansion is needed |
+
+
+<img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/24ce2a2e-b93b-4b2d-8853-d3b3c4adc627" />
+
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/12239262-5b71-4bd5-a92a-85346c03a824" />
+
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/f5cbc9bc-fcff-4801-afb2-25be3fd9ab43" />
+
 ---
 
 ### 4.2 Change Management for Test Engineers
