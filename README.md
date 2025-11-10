@@ -229,7 +229,7 @@ if len(first_anomaly) > 0:
 
 ---
 
-#### <ins> 1b.  AI Assitannt Module for the Semiconductor Test Engineer </ins>
+#### <ins> 1b.  AI Assistnant Module for the Semiconductor Test Engineer </ins>
 
 #### It serves as an <ins>AI Assistant for the Semiconductor Test Engineer</ins>, transforming raw data into real-time insights and automated decision-making.
 
