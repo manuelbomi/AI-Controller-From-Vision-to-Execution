@@ -1531,6 +1531,7 @@ plt.title("Overall KPI Distribution for AI Controller Adoption")
 plt.show()
 
 ```
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/f13b4f8f-45ee-4919-85f0-1ec75c5f8d69" />
 
 ---
 ---
