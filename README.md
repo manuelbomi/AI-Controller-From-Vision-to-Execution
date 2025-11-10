@@ -1013,9 +1013,7 @@ plt.show()
 
 #### GPU acceleration performance visualized clearly for management review.
 
-
-
-
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/5a6fe7ff-2a00-4567-861d-8121e2628ffe" />
 
 ---
 
