@@ -28,9 +28,9 @@
 
 #### This repository demonstrates how an AI Product Manager at Teradyne can transform test operations using AI-driven insights, predictive modeling, and data-driven go-to-market strategy.
 
-#### The AI Controller Product Architecture that we are attempting to build is from the initial AI Controller Vision statement. It is available here: 
+#### The AI Controller Product Architecture that we are attempting to build is from the initial AI Controller Vision statement. It is available here: https://github.com/manuelbomi/AI-Controller-Strategic-Vision-Roadmap
 
-#### For completeness, the architecture is also reproduced here: https://github.com/manuelbomi/AI-Controller-Strategic-Vision-Roadmap
+#### For completeness, the architecture is also reproduced below: 
 
 
 ```python
