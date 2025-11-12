@@ -30,7 +30,7 @@
 
 #### The AI Controller Product Architecture that we are attempting to build is from the initial AI Controller Vision statement. It is available here: 
 
-#### For completeness, the architecture is also reproduced here: 
+#### For completeness, the architecture is also reproduced here: https://github.com/manuelbomi/AI-Controller-Strategic-Vision-Roadmap
 
 
 ```python
