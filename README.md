@@ -103,6 +103,31 @@
 
 - Visualizations: degradation trend plots, anomaly timelines, probe health classifications
 
+#### The picture below regarding 48 site probe card is given for further understanding of the probe card context:
+
+```python
+
+Probe Card (Top View)
+┌─────────────────────────────────┐
+│                                 │
+│  ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○        │ ← 48 individual probe needles
+│  ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○        │    Each makes contact with one die
+│  ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○        │
+│  ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○        │
+│                                 │
+└─────────────────────────────────┘
+
+Wafer (Under Probe Card)
+┌─────────────────────────────────┐
+│ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██   │ ← 48 individual dies being tested
+│ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██   │    simultaneously in parallel
+│ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██   │
+│ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██   │
+│                                 │
+└─────────────────────────────────┘
+
+```
+
 ```python
 
 import numpy as np
