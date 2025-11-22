@@ -960,7 +960,7 @@ plt.show()
 #### <ins>Example</ins>: NVIDIA GPU Integration for Real-Time Inference
 
 > [!NOTE]
-> For better context on how to affordably assess, and the benefit(s) of using Nvidia's Run:ai to scale enterprise AI workloads, interested readers can read the benefits here:   https://github.com/manuelbomi/Nvidia-1-NVIDIA-Run-AI-Need-Assessment-Procurement-and-Access-Options-for-Enterprise-Applications. 
+> For better context on how to affordably access, and the benefit(s) of using Nvidia's Run:ai to scale enterprise AI workloads, interested readers can read the benefits here:   https://github.com/manuelbomi/Nvidia-1-NVIDIA-Run-AI-Need-Assessment-Procurement-and-Access-Options-for-Enterprise-Applications. 
 
 #### Here, we can visualize the gains of partnerring with Nvidia and intergrating their GPU Acceleration platform such as <ins>Nvidia Run:ai</ins> with Teradyne's AI Controller platform. We can visualzie Teradyne's AI Controller metrics such as: 
 
